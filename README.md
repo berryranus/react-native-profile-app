@@ -93,7 +93,7 @@ Expo Go App: Install this app on your physical mobile device from the App Store 
 Open your terminal and run:
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/ProfileApp.git](https://github.com/YOUR_GITHUB_USERNAME/ProfileApp.git)
+git clone [https://github.com/berryranus/ProfileApp.git](https://github.com/berryranus/ProfileApp.git)
 cd ProfileApp
 ```
 
